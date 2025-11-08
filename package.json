@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/pelisplushd-guia",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a pelisplushd-guia",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/pelisplushd-guia.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://btcstorm.cloud/es/pelisplushd/"
+    },
+    "homepage": "https://btcstorm.cloud/es/pelisplushd/"
+}
